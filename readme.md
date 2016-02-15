@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/benoror/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/benoror/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/benoror/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/benoror/ama/issues?utf8=%E2%9C%93&q=is%3Aissue)
 
 I get a lot of questions by email. This way anyone can read the answer.
 
